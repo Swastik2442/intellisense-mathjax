@@ -2,7 +2,7 @@
 	"name": "intellisense-mathjax",
 	"displayName": "IntelliSense for MathJax",
 	"description": "MathJax Syntax Completion for Files based on the Definitions found in your Workspace",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "swastik2442",
 	"private": true,
 	"license": "MIT",
